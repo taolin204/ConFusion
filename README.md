@@ -5,3 +5,5 @@
 5. npm install jquery@3.3.1 popper.js@1.12.9 --save
 6. npm install font-awesome@4.7.0 --save
 7. npm install bootstrap-social@5.1.1 --save
+8. npm install -g less@2.7.2
+9. npm install --save-dev node-sass@4.7.2
