@@ -7,3 +7,6 @@
 7. npm install bootstrap-social@5.1.1 --save
 8. npm install -g less@2.7.2
 9. npm install --save-dev node-sass@4.7.2
+-- in order to make node-sass work, may need to run npm install -g --production windows-build-tools in adminstration mode
+
+
